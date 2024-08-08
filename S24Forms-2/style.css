@@ -1,0 +1,13 @@
+form{
+    display: inline-block;
+    background-color:lightblue;
+    border: 2px darkblue;
+    padding: 20px;
+}
+label{
+    display: inline-block;
+    width: 150px;
+}
+form div{
+    margin: 20px;
+}
